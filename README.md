@@ -16,6 +16,7 @@
 
 ## 📂 文件结构示例 Example File Structure
 
+```
 五年日记文件夹/ Five-year-journal-folder/
   ├─ 01/
   │   ├─ 01-01/
@@ -24,6 +25,7 @@
   │   │   └─ ...
   │   └─ ...
   └─ 12/
+```
 
 每个Markdown文件包含YAML头和标题，便于分类和检索。 Each markdown file contains a YAML header and title for easy categorization and retrieval.
 
